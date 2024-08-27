@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 # About Me
 
-I possess commendable knowledge in developing AI & ML solutions using open-source ML frameworks and dependencies. With substantial hands-on expertise in Python and shell scripting, I am well-equipped to tackle a variety of challenges. I also have competent knowledge of Azure, with experience in building fault-tolerant solutions by applying best practices of DevOps.
-
+I am an AI, Machine Learning, and Big Data expert with 15+ years of experience and a Ph.D. in scalable data processing. I developed a cutting-edge distributed analytics framework that enhances cloud platforms for Big Data applications, improving performance and security. My expertise in Python, shell scripting, Azure, and DevOps makes me a valuable asset for building robust data products.
 ## Socials
 
 - [LinkedIn](https://www.linkedin.com/in/bikash-agrawal/)
